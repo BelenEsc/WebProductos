@@ -4,7 +4,7 @@
 		type="javax.sql.DataSource" maxActive = "15" maxIdle = "3" maxWait = "5000"
 		username = "sql7623827" password = "akYVms4umE"
 		driverClassName = "com.mysql.jdbc.Driver"
-		url = "sql7.freemysqlhosting.net:3306/sql7623827">
+		url = "jdbc:mysql://sql7.freemysqlhosting.net:3306/sql7623827">
 
 
 	</Resource>
